@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+.blog-text {
+  color: aqua;
+  line-height: 0.5;
+}
+.products-text {
+  color: black;
+  line-height: 3;
+}
